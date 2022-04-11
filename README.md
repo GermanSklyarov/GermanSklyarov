@@ -1,5 +1,11 @@
-### Hi there 👋
-
+### Привет! 👋 меня зовут Герман
+### Я начинающий front-end разработчик.
+### Мой стек:
+- HTML
+- CSS
+- JavaScript
+- Webpack
+- git
 <!--
 **GermanSklyarov/GermanSklyarov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +20,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Статистика:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GermanSklyarov
+)
